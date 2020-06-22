@@ -20,5 +20,7 @@ npm run build
 npm run lint
 ```
 
+change the backend app's port in vue.config.js
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
